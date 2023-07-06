@@ -1,7 +1,6 @@
 ![image](https://github.com/morish13/StudyNotion/assets/133482387/6740e88f-a520-4793-a1af-fd5e74de35ee)
 
 
-StudyNotion
 Project Description
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 StudyNotion aims to provide:
